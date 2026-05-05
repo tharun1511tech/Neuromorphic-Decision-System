@@ -108,7 +108,3 @@ The system follows a **Leaky Integrate-and-Fire (LIF) neuron model**:
 
 Give it a ⭐ on GitHub!
 
-## 🎥 Project Demonstration
-
-👉 [Watch Demo Video]
-(https://drive.google.com/file/d/1dnMhR4fSHv9399pQDcfpmmPNJGRW1REK/view?usp=drivesdk)
