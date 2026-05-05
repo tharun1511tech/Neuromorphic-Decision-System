@@ -48,19 +48,14 @@ The system follows a **Leaky Integrate-and-Fire (LIF) neuron model**:
 | LED 1         | GPIO 2  |
 | LED 2         | GPIO 4  |
 
----
-
-## 📷 Project Images
-
-![Setup](setup.jpg)
-![Circuit](circuit.jpg)
-![Working](working.jpg)
 
 ---
 
 ## 🎥 Project Demonstration
 
-👉 [Watch Demo Video](PASTE_YOUR_DRIVE_LINK_HERE)
+👉 
+[Watch Demo Video].
+(https://drive.google.com/file/d/1dnMhR4fSHv9399pQDcfpmmPNJGRW1REK/view?usp=drivesdk)
 
 ---
 
